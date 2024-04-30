@@ -1,0 +1,36 @@
+.bg-dark {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+}
+
+.teal-text{
+  color: #76ABAE !important;
+}
+
+.mini-title {
+  font-weight: bold;
+  font-size: 1.5em; /* 1.5 times bigger than the default font size */
+  color: #76ABAE;
+  margin: 0;
+  padding: 0;
+}
+
+.upper-mini-title {
+  font-weight: bold;
+  font-size: 1.15em; /* 1.15 times bigger than the default font size */
+  color: #9c9c9c;
+  margin: 0;
+  padding: 0;
+}
+
+.bottom-mini-title {
+  font-weight: bold;
+  font-size: 0.8em; /* 1.15 times bigger than the default font size */
+  color: #9c9c9c;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-teal {
+  background-color: #76ABAE !important;
+}
