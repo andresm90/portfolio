@@ -34,3 +34,19 @@
 .bg-teal {
   background-color: #76ABAE !important;
 }
+
+.container-education{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
